@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\EOYRacingGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0D0E12ED-330C-43C6-86D0-0F742CEEEC7E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EOYRacingGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\EOYRacingGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{BBCC6E2F-4083-4A27-A0AE-E237DDDE855A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\EOYRacingGame">
+      <UniqueIdentifier>{7144918A-CDCD-436E-B16A-BF9F2A5E5CA2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EOYRacingGame\EOYRacingGame.Build.cs">
+      <Filter>Source\EOYRacingGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\EOYRacingGame\EOYRacingGame.cpp">
+      <Filter>Source\EOYRacingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EOYRacingGame\EOYRacingGame.h">
+      <Filter>Source\EOYRacingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EOYRacingGame\EOYRacingGameGameMode.cpp">
+      <Filter>Source\EOYRacingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EOYRacingGame\EOYRacingGameGameMode.h">
+      <Filter>Source\EOYRacingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EOYRacingGame\EOYRacingGameHud.cpp">
+      <Filter>Source\EOYRacingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EOYRacingGame\EOYRacingGameHud.h">
+      <Filter>Source\EOYRacingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EOYRacingGame\EOYRacingGamePawn.cpp">
+      <Filter>Source\EOYRacingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EOYRacingGame\EOYRacingGamePawn.h">
+      <Filter>Source\EOYRacingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EOYRacingGame\EOYRacingGameWheelFront.cpp">
+      <Filter>Source\EOYRacingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EOYRacingGame\EOYRacingGameWheelFront.h">
+      <Filter>Source\EOYRacingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EOYRacingGame\EOYRacingGameWheelRear.cpp">
+      <Filter>Source\EOYRacingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EOYRacingGame\EOYRacingGameWheelRear.h">
+      <Filter>Source\EOYRacingGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
